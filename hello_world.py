@@ -10,5 +10,3 @@ def main():
     print(hello(user))
     print(goodbye(user))
           
-if __name__ == '__main__':
-    main()
